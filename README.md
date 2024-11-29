@@ -53,12 +53,10 @@ github.com/codespaces/new
 
 ## Download Links (these are examples not all work)
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
 macos14:
 https://download2390.mediafire.com/uef58f1lq0xgPRMjnfb9NWh6lgypL0qQ-892k__iWpMI5PInHTmr_Bj5ugJguiplxC-a8v7Laj3eF6ktiQ3ng40ruuq7sQM6I7kRsUZadkGl-qaQ_E1DJzkZlkeec7V-gYQNWSuebRlbjL7xXvWaJ-F5H6P7hTfLD5iT_ITPPA/vku90kjifs1fmu0/macOS+Sonoma+ISO+by+techrechard.com.iso
 
-Linux Mint(ersatz für ubuntu):
+Linux Mint:
 https://mirror.dogado.de/linuxmint-cd/stable/21.3/linuxmint-21.3-mate-64bit.iso
 
 arch linux:
